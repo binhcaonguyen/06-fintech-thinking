@@ -69,7 +69,7 @@
 - Việt Nam là quốc gia sở hữu nhiều điều kiện thuận lợi và tiềm năng cho sự phát triển của lĩnh vực Fintech. Hiện Việt Nam đang có tới 40 triệu Smartphone, con số này sẽ tăng lên 60 triệu vào năm 2018, nhưng hiện tại mới chỉ có dưới 5% người dùng Mobile sử dụng các ứng dụng của ngân hàng. Bên cạnh đó, hệ sinh thái Fintech tại Việt Nam chưa có sự kết nối chặt chẽ giữa các chủ thể liên quan (bao gồm cơ quan quản lý, các định chế tài chính, công ty Fintech và các doanh nghiệp khởi nghiệp, quỹ đầu tư, hạ tầng tài chính, viễn thông…). Lĩnh vực Fintech ở Việt Nam còn khá mới mẻ dù các công ty trung gian thanh toán đã xuất hiện vào năm 2008. Hiện nay, thị trường chỉ có khoảng 40 công ty hoạt động trong các lĩnh vực khác nhau, trong đó phần lớn tập trung vào mảng thanh toán. Ngoài ra, thị trường Fintech Việt Nam còn có một số doanh nghiệp khởi nghiệp hoạt động ở những lĩnh vực khác như gọi vốn cộng đồng, dịch vụ cho vay trực tuyến…, nhưng đều ở qui mô nhỏ. Các loại hình Fintech khác như sàn giao dịch cho vay ngang hàng, quản lý đầu tư tự động, giao dịch tiền ảo… gần như lặng lẽ và vẫn chưa có cơ chế pháp lý tương ứng.
 
 <div style="text-align:center">
-    <img src ="images/products.jpg" width="90%"/>
+    <img src ="images/products.jpg" width="70%"/>
 </div>
 
 - Các ứng dụng đa dạng của Fintech đang tác động đến hầu hết mọi lĩnh vực hoạt động của ngành tài chính. `Những tác động lớn nhất` đến thế giới nói chung cũng như Việt Nam nói riêng có thể kể đến như:
@@ -82,7 +82,7 @@
 - Không nằm ngoài guồng quay của thế giới, các định chế tài chính tại Việt nam cũng `nhận định rõ tầm quan trọng và ảnh hưởng ngày càng lớn của Fintech trong hoạt động kinh doanh tài chính`. Hệ thống internet banking, mobile banking… đã và đang được hoàn thiện ở hầu hết các ngân hàng. Các công ty chứng khoán, quỹ đầu tư, công ty bảo hiểm cũng tích cực dành ngân sách cho công nghệ đặc biệt trong các mảng an ninh mạng, quản trị khách hàng.
 
 <div style="text-align:center">
-    <img src ="images/vietnam.png" width="90%"/>
+    <img src ="images/vietnam.png" width="60%"/>
 </div>
 
 - Tuy nhiên, hầu hết các ngân hàng và các tổ chức tài chính tại Việt nam tập trung vào khâu nâng cao năng lực công nghệ trong chính nội tại tổ chức hơn là chủ động phát triển các sản phẩm Fintech mới hay đầu tư vào các công ty Fintech. 
