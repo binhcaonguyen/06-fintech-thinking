@@ -16,7 +16,7 @@
 - Ở cuối thời kỳ công xã nguyên thủy, công cụ lao động ngày càng tiến hóa (từ đồ đá sang đồ đồng, đồ sắt) dẫn đến dư thừa của cải kiếm được. Từ đó, chế độ tư hữu xuất hiện, rồi nảy sinh việc trao đổi hàng hóa. Ban đầu là trực tiếp hàng đổi hàng, sau đó mua bán thông qua tiền tệ.
 
 <div style="text-align:center">
-    <img src ="images/book1.jpg" width="70%"/>
+    <img src ="images/book1.jpg" width="50%"/>
 </div>
 
 - Về bản chất, tiền tệ là `vật ngang giá chung`, làm phương tiện để trao đổi hàng hóa, dịch vụ và thanh toán các khoản nợ. Tiền tệ có 4 chức năng cơ bản:
@@ -72,7 +72,7 @@
 - `Lạm phát` là hiện tượng cung tiền tệ tăng lên kéo dài làm cho mức giá cả chung tăng nhanh tồn tại trong một thời gian dài.
 
 <div style="text-align:center">
-    <img src ="images/inflation.jpg" width="70%"/>
+    <img src ="images/inflation.jpg" width="50%"/>
 </div>
 
 - Nguyên nhân:
@@ -103,7 +103,7 @@
     - Tài chính doanh nghiệp
 
 <div style="text-align:center">
-    <img src ="images/financialMarket.png" width="70%"/>
+    <img src ="images/financialMarket.png" width="50%"/>
 </div>
 
 # Thị trường tài chính
@@ -123,7 +123,7 @@
     - Nâng cao năng suất và hiệu quả sử dụng vốn của toàn bộ nền kinh tế.
 
 <div style="text-align:center">
-    <img src ="images/book2.jpg" width="70%"/>
+    <img src ="images/book2.jpg" width="50%"/>
 </div>
 
 - `Thị trường tiền tệ` là một thị trường tài chính, trong đó đối tượng giao dịch, mua bán, trao đổi trên thị trường là các `khoản vốn ngắn hạn` hay nói cách khác là nguồn tài chính có thời hạn sử dụng kỳ hạn thanh toán dưới một năm. Các `công cụ` của thị trường tiền tệ bao gồm tín phiếu kho bạc, các loại thương phiếu, kỳ phiếu, chứng chỉ tiền gửi, kỳ phiếu ngân hàng, các khế ước cho vay.
@@ -138,7 +138,7 @@
     - Kiểm soát
 
 <div style="text-align:center">
-    <img src ="images/financialOrganization.jpg" width="70%"/>
+    <img src ="images/financialOrganization.jpg" width="50%"/>
 </div>
 
 - Tổ chức tài chính trung gian bao gồm hai loại chủ yếu sau đây:
@@ -165,7 +165,7 @@
 - là `giá cả của tín dụng`, vì nó là giá của quyền được sử dụng vốn vay trong một khoảng thời gian nhất định, mà người sử dụng phải trả cho người cho vay; là tỉ lệ của tổng số tiền phải trả so với tổng số tiền vay trong một khoảng thời gian nhất định.
 
 <div style="text-align:center">
-    <img src ="images/laisuat.jpg" width="70%"/>
+    <img src ="images/laisuat.jpg" width="50%"/>
 </div>
 
 - Lãi suất là giá mà người vay phải trả để được sử dụng tiền không thuộc sở hữu của họ và là lợi tức người cho vay có được đối với việc trì hoãn chi tiêu.
